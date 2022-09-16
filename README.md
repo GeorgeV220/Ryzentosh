@@ -17,7 +17,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | MotherBoard      | MSI B450-A PRO MAX                                 |
 | OS Disk          | Samsung 870 Evo SSD 1TB 2.5'' SATA III             |
 | RAM              | 2x8GB DDR4 Corsair Vengeance Pro                   |
-| GPU              | AMD Radeon RX570 4gb                               |
+| GPU              | AMD Radeon RX6600 8GB                              |
 | Cooler    	     | Arctic Freezer A35 A-RGB          		              |
 
 ## Working
